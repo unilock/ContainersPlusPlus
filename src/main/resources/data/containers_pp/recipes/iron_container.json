@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "iii",
+    "ici",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "polyfactory:wooden_container"
+    }
+  },
+  "result": {
+    "item": "containers_pp:iron_container"
+  },
+  "show_notification": true
+}

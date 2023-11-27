@@ -1,0 +1,9 @@
+{
+  "itemgroup.containers_pp": "Containers++",
+
+  "block.containers_pp.iron_container": "Iron Container",
+  "block.containers_pp.golden_container": "Golden Container",
+  "block.containers_pp.diamond_container": "Diamond Container",
+  "block.containers_pp.obsidian_container": "Obsidian Container",
+  "block.containers_pp.netherite_container": "Netherite Container"
+}

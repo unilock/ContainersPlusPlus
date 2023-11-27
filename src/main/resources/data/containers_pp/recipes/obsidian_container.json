@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "ooo",
+    "oco",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:obsidian"
+    },
+    "c": {
+      "item": "containers_pp:diamond_container"
+    }
+  },
+  "result": {
+    "item": "containers_pp:obsidian_container"
+  },
+  "show_notification": true
+}

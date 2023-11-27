@@ -3,7 +3,7 @@
 	"package": "cc.unilock.containers_pp.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+    "FactoryBlockEntitiesMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

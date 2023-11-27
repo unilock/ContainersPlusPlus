@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "containers_pp:iron_container",
+    "containers_pp:golden_container",
+    "containers_pp:diamond_container",
+    "containers_pp:obsidian_container",
+    "containers_pp:netherite_container"
+  ]
+}

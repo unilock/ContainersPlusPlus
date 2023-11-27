@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "ggg",
+    "dcd",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glass"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "item": "containers_pp:golden_container"
+    }
+  },
+  "result": {
+    "item": "containers_pp:diamond_container"
+  },
+  "show_notification": true
+}
