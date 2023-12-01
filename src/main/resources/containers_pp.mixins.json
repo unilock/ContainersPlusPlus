@@ -1,11 +1,12 @@
 {
-	"required": true,
-	"package": "cc.unilock.containers_pp.mixin",
-	"compatibilityLevel": "JAVA_17",
-	"mixins": [
+  "required": true,
+  "package": "cc.unilock.containers_pp.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ContainerBlockEntityMixin",
     "FactoryBlockEntitiesMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
+  ],
+  "injectors": {
+    "defaultRequire": 1
 	}
 }
