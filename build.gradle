@@ -27,7 +27,7 @@ repositories {
 loom {
     mods {
 		"containers_pp" {
-			sourceSet sourceSets.main
+			sourceSet("main")
 		}
 	}
 }
